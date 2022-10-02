@@ -1,4 +1,5 @@
 function callGoogle() {
+	console.log("Calling Function");
 	var settings = {
 		"url": "google.com",
 		"method": "GET",
